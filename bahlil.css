@@ -1,0 +1,45 @@
+button{
+    padding: 5px 15px;
+}
+#juta{
+    background-color: black;
+    color: aqua;
+}
+h1{
+    padding: 2vh;
+    border: 2px black none;
+}
+#tempik{
+    background-color: crimson;
+    color: mediumturquoise;
+    border: none;
+}
+#judul{
+    border: 2px;
+    color:gold
+}
+#robux{
+    background-color: blueviolet;
+    color: black;
+    border: none;
+}
+#minikrep{
+background-color: lightseagreen;
+color: black;
+border: none;
+}
+#gta{
+    background-color: gold;
+    border: none;
+}
+#ps{
+    color: beige;
+    background-color: seagreen;
+    border: none;
+
+}
+#ff{
+    background-color: cornflowerblue;
+    border: none;
+    color: rgb(44, 22, 78);
+}
